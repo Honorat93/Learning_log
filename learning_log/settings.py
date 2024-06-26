@@ -153,8 +153,9 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
 CSRF_TRUSTED_ORIGINS = [
-    'web-production-b4ce.up.railway.app',  
-  
+    'http://web-production-b4ce.up.railway.app',
+    'https://web-production-b4ce.up.railway.app',
 ]
+
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
