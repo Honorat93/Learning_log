@@ -37,7 +37,7 @@ if ENVIRONMENT == 'development':
 else:
     DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['web-production-b4ce.up.railway.app']
 
 # My settings
 LOGIN_URL = 'users:login'
