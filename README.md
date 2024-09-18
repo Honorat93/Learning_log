@@ -1,0 +1,1 @@
+Cette application permet de garder tes traces de ton apprentissage. Un du genre cloud. Tu crées un compte, et tu pourras ainsi résumé tout ce que tu apprénds à travers la création de topic. Tout ce que tu crées il n'y a que toi qui le verra
